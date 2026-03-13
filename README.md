@@ -28,7 +28,7 @@ Welcome to my profile! I'm highly passionate about electronics, low-level progra
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpeederW&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="SpeederW's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SpeederW&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="SpeederW's GitHub Stats" />
 </div>
 
 <br>
