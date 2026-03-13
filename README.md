@@ -1,6 +1,7 @@
 # Hi there, I'm Speeder! 🦅
 
 🎓 **Embedded Systems & IoT Student** at Phelma
+
 🤖 Member of the **Robotronik Phelma** robotics club
 
 Welcome to my profile! I'm highly passionate about electronics, low-level programming, and building autonomous systems.
